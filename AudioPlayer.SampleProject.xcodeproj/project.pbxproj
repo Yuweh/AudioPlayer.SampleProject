@@ -12,6 +12,7 @@
 		90208CCC1F0E89D8002DAD48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90208CCA1F0E89D8002DAD48 /* Main.storyboard */; };
 		90208CCE1F0E89D8002DAD48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90208CCD1F0E89D8002DAD48 /* Assets.xcassets */; };
 		90208CD11F0E89D8002DAD48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90208CCF1F0E89D8002DAD48 /* LaunchScreen.storyboard */; };
+		90208CD91F0E8E43002DAD48 /* Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 90208CD81F0E8E43002DAD48 /* Song.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		90208CCD1F0E89D8002DAD48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90208CD01F0E89D8002DAD48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90208CD21F0E89D8002DAD48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90208CD81F0E8E43002DAD48 /* Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Song.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				90208CC81F0E89D8002DAD48 /* ViewController.swift */,
 				90208CCA1F0E89D8002DAD48 /* Main.storyboard */,
 				90208CCD1F0E89D8002DAD48 /* Assets.xcassets */,
+				90208CD81F0E8E43002DAD48 /* Song.mp3 */,
 				90208CCF1F0E89D8002DAD48 /* LaunchScreen.storyboard */,
 				90208CD21F0E89D8002DAD48 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				90208CD11F0E89D8002DAD48 /* LaunchScreen.storyboard in Resources */,
+				90208CD91F0E8E43002DAD48 /* Song.mp3 in Resources */,
 				90208CCE1F0E89D8002DAD48 /* Assets.xcassets in Resources */,
 				90208CCC1F0E89D8002DAD48 /* Main.storyboard in Resources */,
 			);
